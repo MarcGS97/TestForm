@@ -1,0 +1,36 @@
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\DESARROLLO\source\repos\TestForm\TestForm\obj\Debug\TestForm.pdb
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\bin\Debug\TestForm.exe.config
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\bin\Debug\TestForm.exe
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\bin\Debug\TestForm.pdb
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.csproj.SuggestedBindingRedirects.cache
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.Form1.resources
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.exe
+F:\Archivos\M1\03 - Repos\TestForm\v2\TestForm\obj\Debug\TestForm.pdb
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\bin\Debug\TestForm.exe.config
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\bin\Debug\TestForm.exe
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\bin\Debug\TestForm.pdb
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.csproj.SuggestedBindingRedirects.cache
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.Form1.resources
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.exe
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.pdb
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\bin\Debug\Newtonsoft.Json.dll
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\bin\Debug\Newtonsoft.Json.xml
+F:\Archivos\M1\03 - Repos\TestForm\v3\TestForm\obj\Debug\TestForm.csproj.CopyComplete
